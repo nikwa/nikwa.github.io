@@ -14,7 +14,7 @@ Courses that I am currently running as course responsible
 
 I have more than 15 years of experience in teaching, developing and being responsible for several courses in machine learning, automatic control, sensor fusion and mathematics on bachelor, master and PhD level. For a full list of all courses, see the summary of my [Teaching experience](https://nikwa.github.io/files/NiklasWahlstromTeaching.pdf).
 
-I am co-author of the textbook (Machine Learning - A First Course for Engineers and Scientists)[https://smlbook.org/] suitable for a first machine learning course for Master or last year Bachelor students.
+I am co-author of the textbook [Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) suitable for a first machine learning course for Master or last year Bachelor students.
 
 <!--
 {% for post in site.teaching reversed %}
