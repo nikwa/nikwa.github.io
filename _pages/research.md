@@ -12,7 +12,7 @@ There are two main strategies to derive and deduce models — either using theor
 For a complete list of publications, please refer to my [Google Scholar](https://scholar.google.se/citations?user=L8DhrjsAAAAJ).
 
 
-{% for post in site.teaching %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
