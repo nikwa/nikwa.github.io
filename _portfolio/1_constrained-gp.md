@@ -1,6 +1,6 @@
 ---
 title: "Constrained Gaussian processes"
-excerpt: "How can prior physical knowledge be incorporated into data-driven Gaussian process models?<br/><img src='/images/constrained-gp.png'>"
+excerpt: "How can prior physical knowledge be incorporated into data-driven Gaussian process models?<br/><img src='/images/constrained-gp.jpg'>"
 collection: portfolio
 ---
 
@@ -18,5 +18,5 @@ Further possible development of this project is to not only improve the performa
 
 ###### \[C16\] [<SPAN STYLE="font-weight:normal">C. Jidling, N. Wahlström, A. Wills, and T. B. Schön. _Linearly constrained Gaussian processes_ The Annual Conference on Neural Information Processing Systems, NIPS (2017).</SPAN>](https://proceedings.neurips.cc/paper_files/paper/2017/hash/71ad16ad2c4d81f348082ff6c4b20768-Abstract.html)
 
-###### \[C7\] [<SPAN STYLE="font-weight:normal">N. Wahlström, M. Kok, T.B. Schön, and F. Gustafsson. _Modeling Magnetic Fields using Gaussian Processes_ The 38th International Conference on Acoustics, Speech and Signal Processing, ICASSP, 2013.</SPAN>](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-88966)
+###### \[C7\] [<SPAN STYLE="font-weight:normal">N. Wahlström, M. Kok, T.B. Schön, and F. Gustafsson. _Modeling Magnetic Fields using Gaussian Processes_ The 38th International Conference on Acoustics, Speech and Signal Processing, ICASSP (2013).</SPAN>](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-88966)
 
