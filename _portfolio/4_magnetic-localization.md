@@ -15,13 +15,13 @@ During 2017 former colleagues at Linköping University, an entrepreneur and an i
 
 ## References
 
-###### \[R1\] [<SPAN STYLE="font-weight:normal">N. Wahlström. _Tracking Position and Orientation of Magnetic Objects Using Magnetometer Networks_ Technical report (2015).</SPAN>](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-122395)
+###### \[R1\] [<SPAN STYLE="font-weight:normal">N. Wahlström and F. Gustafsson. _Tracking Position and Orientation of Magnetic Objects Using Magnetometer Networks_ Technical report (2015).</SPAN>](https://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-122395)
 
 ###### \[J2\] [<SPAN STYLE="font-weight:normal">N. Wahlström, R. Hostettler, F. Gustafsson and W. Birk. _Classification of Driving Direction in Traffic Surveillance using Magnetometers_ IEEE Transactions on Intelligent Transportation Systems (2014).</SPAN>](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-88965)
 
 ###### \[J1\] [<SPAN STYLE="font-weight:normal">N. Wahlström and F. Gustafsson. _Magnetometer Modeling and Validation for Tracking Metallic Targets_ IEEE Transactions on Signal Processing (2014).</SPAN>](http://urn.kb.se/resolve?urn=urn%3Anbn%3Ase%3Aliu%3Adiva-88963)
 
-###### \[P1\] [<SPAN STYLE="font-weight:normal">F. Gustafsson and N. Wahlström. _Method and Device for Pose Tracking Using Vector Magnetometers_ US Patent 20130249784 A1 (2013).</SPAN>](http://www.google.com/patents/US20130249784)
+###### \[P1\] [<SPAN STYLE="font-weight:normal">F. Gustafsson and N. Wahlström. _Method and Device for Pose Tracking Using Vector Magnetometers_ US Patent, US20130249784A1, (2013).</SPAN>](http://www.google.com/patents/US20130249784)
 
 
 
