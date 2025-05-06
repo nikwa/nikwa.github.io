@@ -16,6 +16,8 @@ I have more than 15 years of experience in teaching, developing and being respon
 
 I am co-author of the textbook [Machine Learning - A First Course for Engineers and Scientists](https://smlbook.org/) suitable for a first machine learning course for Master or last year Bachelor students.
 
+<br/><img src='/images/cover_small.png'>
+
 <!--
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
