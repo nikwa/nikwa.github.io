@@ -15,7 +15,7 @@ I am also the Director of Studies at our division, responsible for proposing sta
 
 - **2025-04-01 [New role]** I have taken over as Director of Studies at the Division of System and Control.
 
-- **2025-02-13 [Grant Accepted]** [Vladislav Borisov](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1916) and I have been awarded a grant for a [WASP-WISE Pilot project](https://wasp-sweden.org/calls/call-for-wasp-wise-pilot-projects-2024/) entitleed *Computer design of new class of green magnets for energy applications and next-generation computing* to be compleded during 2025 and 2026.
+- **2025-02-13 [Grant Accepted]** [Vladislav Borisov](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1916) and I have been awarded a grant for a [WASP-WISE Pilot project](https://wasp-sweden.org/calls/call-for-wasp-wise-pilot-projects-2024/) entitled *Computer design of new class of green magnets for energy applications and next-generation computing* to be compleded during 2025 and 2026.
 
 - **2025-01-20 [New Course]** Our brand new course, [Deep learning](https://uppsala.instructure.com/courses/102132), started today with more than 100 registered students!
 
