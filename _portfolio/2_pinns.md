@@ -10,4 +10,4 @@ Another way to leverage machine learning models with first principles is using '
 
 ###### \[C22\] [<SPAN STYLE="font-weight:normal">P. Pilar and N. Wahlström. _Physics-informed neural networks with unknown measurement noise._ Learning for Dynamics \& Control Conference, Oxford, July (2024).</SPAN>](https://proceedings.mlr.press/v242/pilar24a.html)
 
-###### \[W1\] [<SPAN STYLE="font-weight:normal">P. Pilar, M. Heinonen, and N. Wahlström. _Repulsive Ensembles for Uncertainty Estimation in PINNs_ (2025) (working manuscript)
+###### \[W1\] [<SPAN STYLE="font-weight:normal">P. Pilar, M. Heinonen, and N. Wahlström. _Repulsive Ensembles for Uncertainty Estimation in PINNs_ (2025) (working manuscript).</SPAN>](https://arxiv.org/abs/2505.17308)
