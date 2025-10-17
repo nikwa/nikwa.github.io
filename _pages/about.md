@@ -13,6 +13,9 @@ I am also the Director of Studies at our division, responsible for proposing sta
 
 ## News
 
+- **2025-10-16 [PhD thesis]** The PhD theis of Philipp Pilar
+ first student for whom I am the main supervisor, is now publicaly avaialbe under the title [Physics-Informed Machine Learning for Regression and Generative Modeling](https://diva-portal.org/smash/record.jsf?pid=diva2:1999190). The defence takes plance on November 7, at 9:15 in [Heinz-Otto Kreiss, Ångströmslaboratoriert](https://link.mazemap.com/we6kvMKq) with [Richard Wilkinsson](https://rich-d-wilkinson.github.io/) as opponent.
+
 - **2025-04-01 [New role]** I have taken over as Director of Studies at the Division of System and Control.
 
 - **2025-02-13 [Grant Accepted]** [Vladislav Borisov](https://www.uu.se/kontakt-och-organisation/personal?query=N19-1916) and I have been awarded a grant for a [WASP-WISE Pilot project](https://wasp-sweden.org/calls/call-for-wasp-wise-pilot-projects-2024/) entitled *Computer design of new class of green magnets for energy applications and next-generation computing* to be compleded during 2025 and 2026.
