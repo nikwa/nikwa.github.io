@@ -13,7 +13,8 @@ I am also the Director of Studies at our division, responsible for proposing sta
 
 ## News
 
-- **2026-02-02 [New PhD student]** Victor Maloisel started today as Industrial PhD student together with [NKT](https://www.nkt.com/products-solutions). Victor will be supervised by myself and [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) from Uppsala University as well as an industrial supervisor at the company.
+- **2026-02-02 [New PhD student]** Victor Maloisel started today as Industrial PhD student together with [NKT](https://www.nkt.com/products-solutions). Victor will be working on the SSF grant that we got accepted in end of 2025 and will be
+ supervised by myself and [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) from Uppsala University as well as an industrial supervisor at the company.
 
 - **2026-01-19 [New Course Start]** Second instance of our [Deep learning](https://uppsala.instructure.com/courses/115767) course started today with more than 140 registered students!
 
