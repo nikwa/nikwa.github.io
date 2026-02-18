@@ -13,11 +13,11 @@ I am also the Director of Studies at our division, responsible for proposing sta
 
 ## News
 
-- **2026-02-02 [New PhD student]** Victor Maloisel started today as Industrial PhD student gogether with [NKT](https://www.nkt.com/products-solutions). Victor will be supervised by myself and [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) from Uppsala University together with an industrial supervisor at the company.
+- **2026-02-02 [New PhD student]** Victor Maloisel started today as Industrial PhD student together with [NKT](https://www.nkt.com/products-solutions). Victor will be supervised by myself and [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) from Uppsala University as well as an industrial supervisor at the company.
 
-- **2026-01-19 [New Course Start]** Second course instance of our [Deep learning](https://uppsala.instructure.com/courses/115767), started today with more than 140 registered students!
+- **2026-01-19 [New Course Start]** Second instance of our [Deep learning](https://uppsala.instructure.com/courses/115767) course started today with more than 140 registered students!
 
-- **2025-11-07 [Grant Accepted]** Together with [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) and [NKT](https://www.nkt.com/products-solutions) we have been accapted a grant on the call [SSF Industrial Doctoral Studentship](https://strategiska.se/app/uploads/sites/2/id25_en.pdf) with the project *Machine learning improving superconductivity in power cables*
+- **2025-11-07 [Grant Accepted]** Together with [Annica Black-Schaffer](https://materials-theory.physics.uu.se/black-schaffer/) and [NKT](https://www.nkt.com/products-solutions) we have been accapted a grant on the call [SSF Industrial Doctoral Studentship](https://strategiska.se/app/uploads/sites/2/id25_en.pdf) on the project *Machine learning improving superconductivity in power cables*.
 
 - **2025-11-07 [PhD Thesis Defended]** Philipp Pilar,
  my first doctoral student as main supervisor, today sucessfully defended his PhD thesis [Physics-Informed Machine Learning for Regression and Generative Modeling](https://diva-portal.org/smash/record.jsf?pid=diva2:1999190). The opponent was [Prof. Richard Wilkinsson](https://rich-d-wilkinson.github.io/).
