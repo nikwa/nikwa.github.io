@@ -10,7 +10,7 @@ author_profile: true
 Courses that I am currently running as course responsible
 
 
-* [Deep learning](https://uppsala.instructure.com/courses/102132), 5hp, Master level, given annually in January-March.
+* [Deep learning](https://uppsala.instructure.com/courses/115767), 5hp, Master level, given annually in January-March.
 
 I have more than 15 years of experience in teaching, developing and being responsible for several courses in machine learning, automatic control, sensor fusion and mathematics on bachelor, master and PhD level. For a full list of all courses, see the summary of my [Teaching experience](https://nikwa.github.io/files/NiklasWahlstromTeaching.pdf).
 
